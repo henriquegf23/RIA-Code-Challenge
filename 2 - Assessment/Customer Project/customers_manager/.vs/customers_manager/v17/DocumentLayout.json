@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\T-Gamer\\OneDrive\\Documentos\\GitHub\\RIA-Code-Challenge\\2 - Assessment\\Customer Project\\customers_manager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63B2652C-453B-465A-925A-F6D8B2926FC1}|customers_manager\\customers_manager.csproj|c:\\users\\t-gamer\\onedrive\\documentos\\github\\ria-code-challenge\\2 - assessment\\customer project\\customers_manager\\customers_manager\\repository\\persistdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B2652C-453B-465A-925A-F6D8B2926FC1}|customers_manager\\customers_manager.csproj|solutionrelative:customers_manager\\repository\\persistdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B2652C-453B-465A-925A-F6D8B2926FC1}|customers_manager\\customers_manager.csproj|c:\\users\\t-gamer\\onedrive\\documentos\\github\\ria-code-challenge\\2 - assessment\\customer project\\customers_manager\\customers_manager\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B2652C-453B-465A-925A-F6D8B2926FC1}|customers_manager\\customers_manager.csproj|solutionrelative:customers_manager\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B2652C-453B-465A-925A-F6D8B2926FC1}|customers_manager\\customers_manager.csproj|c:\\users\\t-gamer\\onedrive\\documentos\\github\\ria-code-challenge\\2 - assessment\\customer project\\customers_manager\\customers_manager\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B2652C-453B-465A-925A-F6D8B2926FC1}|customers_manager\\customers_manager.csproj|solutionrelative:customers_manager\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B2652C-453B-465A-925A-F6D8B2926FC1}|customers_manager\\customers_manager.csproj|c:\\users\\t-gamer\\onedrive\\documentos\\github\\ria-code-challenge\\2 - assessment\\customer project\\customers_manager\\customers_manager\\repository\\interfaces\\ipersistdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B2652C-453B-465A-925A-F6D8B2926FC1}|customers_manager\\customers_manager.csproj|solutionrelative:customers_manager\\repository\\interfaces\\ipersistdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B2652C-453B-465A-925A-F6D8B2926FC1}|customers_manager\\customers_manager.csproj|c:\\users\\t-gamer\\onedrive\\documentos\\github\\ria-code-challenge\\2 - assessment\\customer project\\customers_manager\\customers_manager\\services\\customerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B2652C-453B-465A-925A-F6D8B2926FC1}|customers_manager\\customers_manager.csproj|solutionrelative:customers_manager\\services\\customerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B2652C-453B-465A-925A-F6D8B2926FC1}|customers_manager\\customers_manager.csproj|c:\\users\\t-gamer\\onedrive\\documentos\\github\\ria-code-challenge\\2 - assessment\\customer project\\customers_manager\\customers_manager\\services\\interfaces\\icustomerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B2652C-453B-465A-925A-F6D8B2926FC1}|customers_manager\\customers_manager.csproj|solutionrelative:customers_manager\\services\\interfaces\\icustomerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B2652C-453B-465A-925A-F6D8B2926FC1}|customers_manager\\customers_manager.csproj|c:\\users\\t-gamer\\onedrive\\documentos\\github\\ria-code-challenge\\2 - assessment\\customer project\\customers_manager\\customers_manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B2652C-453B-465A-925A-F6D8B2926FC1}|customers_manager\\customers_manager.csproj|solutionrelative:customers_manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\T-Gamer\\OneDrive\\Documentos\\GitHub\\RIA-Code-Challenge\\2 - Assessment\\Customer Project\\customers_manager\\customers_manager\\Program.cs",
+              "RelativeDocumentMoniker": "customers_manager\\Program.cs",
+              "ToolTip": "C:\\Users\\T-Gamer\\OneDrive\\Documentos\\GitHub\\RIA-Code-Challenge\\2 - Assessment\\Customer Project\\customers_manager\\customers_manager\\Program.cs",
+              "RelativeToolTip": "customers_manager\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T02:13:08.87Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\T-Gamer\\OneDrive\\Documentos\\GitHub\\RIA-Code-Challenge\\2 - Assessment\\Customer Project\\customers_manager\\customers_manager\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "customers_manager\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\T-Gamer\\OneDrive\\Documentos\\GitHub\\RIA-Code-Challenge\\2 - Assessment\\Customer Project\\customers_manager\\customers_manager\\Models\\Customer.cs",
+              "RelativeToolTip": "customers_manager\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T16:02:41.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPersistData.cs",
+              "DocumentMoniker": "C:\\Users\\T-Gamer\\OneDrive\\Documentos\\GitHub\\RIA-Code-Challenge\\2 - Assessment\\Customer Project\\customers_manager\\customers_manager\\Repository\\Interfaces\\IPersistData.cs",
+              "RelativeDocumentMoniker": "customers_manager\\Repository\\Interfaces\\IPersistData.cs",
+              "ToolTip": "C:\\Users\\T-Gamer\\OneDrive\\Documentos\\GitHub\\RIA-Code-Challenge\\2 - Assessment\\Customer Project\\customers_manager\\customers_manager\\Repository\\Interfaces\\IPersistData.cs",
+              "RelativeToolTip": "customers_manager\\Repository\\Interfaces\\IPersistData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T02:21:56.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersistData.cs",
+              "DocumentMoniker": "C:\\Users\\T-Gamer\\OneDrive\\Documentos\\GitHub\\RIA-Code-Challenge\\2 - Assessment\\Customer Project\\customers_manager\\customers_manager\\Repository\\PersistData.cs",
+              "RelativeDocumentMoniker": "customers_manager\\Repository\\PersistData.cs",
+              "ToolTip": "C:\\Users\\T-Gamer\\OneDrive\\Documentos\\GitHub\\RIA-Code-Challenge\\2 - Assessment\\Customer Project\\customers_manager\\customers_manager\\Repository\\PersistData.cs",
+              "RelativeToolTip": "customers_manager\\Repository\\PersistData.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwEkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T01:02:33.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICustomerServices.cs",
+              "DocumentMoniker": "C:\\Users\\T-Gamer\\OneDrive\\Documentos\\GitHub\\RIA-Code-Challenge\\2 - Assessment\\Customer Project\\customers_manager\\customers_manager\\Services\\Interfaces\\ICustomerServices.cs",
+              "RelativeDocumentMoniker": "customers_manager\\Services\\Interfaces\\ICustomerServices.cs",
+              "ToolTip": "C:\\Users\\T-Gamer\\OneDrive\\Documentos\\GitHub\\RIA-Code-Challenge\\2 - Assessment\\Customer Project\\customers_manager\\customers_manager\\Services\\Interfaces\\ICustomerServices.cs",
+              "RelativeToolTip": "customers_manager\\Services\\Interfaces\\ICustomerServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T01:59:49.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerServices.cs",
+              "DocumentMoniker": "C:\\Users\\T-Gamer\\OneDrive\\Documentos\\GitHub\\RIA-Code-Challenge\\2 - Assessment\\Customer Project\\customers_manager\\customers_manager\\Services\\CustomerServices.cs",
+              "RelativeDocumentMoniker": "customers_manager\\Services\\CustomerServices.cs",
+              "ToolTip": "C:\\Users\\T-Gamer\\OneDrive\\Documentos\\GitHub\\RIA-Code-Challenge\\2 - Assessment\\Customer Project\\customers_manager\\customers_manager\\Services\\CustomerServices.cs",
+              "RelativeToolTip": "customers_manager\\Services\\CustomerServices.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T01:11:38.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\T-Gamer\\OneDrive\\Documentos\\GitHub\\RIA-Code-Challenge\\2 - Assessment\\Customer Project\\customers_manager\\customers_manager\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "customers_manager\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\T-Gamer\\OneDrive\\Documentos\\GitHub\\RIA-Code-Challenge\\2 - Assessment\\Customer Project\\customers_manager\\customers_manager\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "customers_manager\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwDMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T19:03:11.598Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+c:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\denomination\denomination_console\bin\Debug\net9.0\denomination_console.exe
+C:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\denomination\denomination_console\bin\Debug\net9.0\denomination_console.deps.json
+C:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\denomination\denomination_console\bin\Debug\net9.0\denomination_console.runtimeconfig.json
+c:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\denomination\denomination_console\bin\Debug\net9.0\denomination_console.dll
+c:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\denomination\denomination_console\bin\Debug\net9.0\denomination_console.pdb
+c:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\denomination\denomination_console\obj\Debug\net9.0\denomination_console.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\denomination\denomination_console\obj\Debug\net9.0\denomination_console.AssemblyInfoInputs.cache
+c:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\denomination\denomination_console\obj\Debug\net9.0\denomination_console.AssemblyInfo.cs
+c:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\denomination\denomination_console\obj\Debug\net9.0\denomination_console.csproj.CoreCompileInputs.cache
+c:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\denomination\denomination_console\obj\Debug\net9.0\denomination_console.dll
+c:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\denomination\denomination_console\obj\Debug\net9.0\refint\denomination_console.dll
+c:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\denomination\denomination_console\obj\Debug\net9.0\denomination_console.pdb
+C:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\denomination\denomination_console\obj\Debug\net9.0\denomination_console.genruntimeconfig.cache
+C:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\denomination\denomination_console\obj\Debug\net9.0\ref\denomination_console.dll
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\denomination\denomination_console\bin\Debug\net9.0\denomination_console.exe
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\denomination\denomination_console\bin\Debug\net9.0\denomination_console.deps.json
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\denomination\denomination_console\bin\Debug\net9.0\denomination_console.runtimeconfig.json
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\denomination\denomination_console\bin\Debug\net9.0\denomination_console.dll
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\denomination\denomination_console\bin\Debug\net9.0\denomination_console.pdb
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\denomination\denomination_console\obj\Debug\net9.0\denomination_console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\denomination\denomination_console\obj\Debug\net9.0\denomination_console.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\denomination\denomination_console\obj\Debug\net9.0\denomination_console.AssemblyInfo.cs
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\denomination\denomination_console\obj\Debug\net9.0\denomination_console.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\denomination\denomination_console\obj\Debug\net9.0\denomination_console.dll
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\denomination\denomination_console\obj\Debug\net9.0\refint\denomination_console.dll
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\denomination\denomination_console\obj\Debug\net9.0\denomination_console.pdb
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\denomination\denomination_console\obj\Debug\net9.0\denomination_console.genruntimeconfig.cache
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\denomination\denomination_console\obj\Debug\net9.0\ref\denomination_console.dll
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\1 - Assessment\denomination_console\bin\Debug\net9.0\denomination_console.exe
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\1 - Assessment\denomination_console\bin\Debug\net9.0\denomination_console.deps.json
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\1 - Assessment\denomination_console\bin\Debug\net9.0\denomination_console.runtimeconfig.json
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\1 - Assessment\denomination_console\bin\Debug\net9.0\denomination_console.dll
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\1 - Assessment\denomination_console\bin\Debug\net9.0\denomination_console.pdb
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\1 - Assessment\denomination_console\obj\Debug\net9.0\denomination_console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\1 - Assessment\denomination_console\obj\Debug\net9.0\denomination_console.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\1 - Assessment\denomination_console\obj\Debug\net9.0\denomination_console.AssemblyInfo.cs
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\1 - Assessment\denomination_console\obj\Debug\net9.0\denomination_console.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\1 - Assessment\denomination_console\obj\Debug\net9.0\denomination_console.dll
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\1 - Assessment\denomination_console\obj\Debug\net9.0\refint\denomination_console.dll
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\1 - Assessment\denomination_console\obj\Debug\net9.0\denomination_console.pdb
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\1 - Assessment\denomination_console\obj\Debug\net9.0\denomination_console.genruntimeconfig.cache
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\1 - Assessment\denomination_console\obj\Debug\net9.0\ref\denomination_console.dll

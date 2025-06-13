@@ -1,0 +1,34 @@
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customer_manager_simulator\customer_manager_simulator\bin\Debug\net8.0\customer_manager_simulator.exe
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customer_manager_simulator\customer_manager_simulator\bin\Debug\net8.0\customer_manager_simulator.deps.json
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customer_manager_simulator\customer_manager_simulator\bin\Debug\net8.0\customer_manager_simulator.runtimeconfig.json
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customer_manager_simulator\customer_manager_simulator\bin\Debug\net8.0\customer_manager_simulator.dll
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customer_manager_simulator\customer_manager_simulator\bin\Debug\net8.0\customer_manager_simulator.pdb
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customer_manager_simulator\customer_manager_simulator\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customer_manager_simulator\customer_manager_simulator\obj\Debug\net8.0\customer_manager_simulator.csproj.AssemblyReference.cache
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customer_manager_simulator\customer_manager_simulator\obj\Debug\net8.0\customer_manager_simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customer_manager_simulator\customer_manager_simulator\obj\Debug\net8.0\customer_manager_simulator.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customer_manager_simulator\customer_manager_simulator\obj\Debug\net8.0\customer_manager_simulator.AssemblyInfo.cs
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customer_manager_simulator\customer_manager_simulator\obj\Debug\net8.0\customer_manager_simulator.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customer_manager_simulator\customer_manager_simulator\obj\Debug\net8.0\customer.AFE40DEB.Up2Date
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customer_manager_simulator\customer_manager_simulator\obj\Debug\net8.0\customer_manager_simulator.dll
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customer_manager_simulator\customer_manager_simulator\obj\Debug\net8.0\refint\customer_manager_simulator.dll
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customer_manager_simulator\customer_manager_simulator\obj\Debug\net8.0\customer_manager_simulator.pdb
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customer_manager_simulator\customer_manager_simulator\obj\Debug\net8.0\customer_manager_simulator.genruntimeconfig.cache
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customer_manager_simulator\customer_manager_simulator\obj\Debug\net8.0\ref\customer_manager_simulator.dll
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Requests Simulator\customer_manager_simulator\customer_manager_simulator\bin\Debug\net8.0\customer_manager_simulator.exe
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Requests Simulator\customer_manager_simulator\customer_manager_simulator\bin\Debug\net8.0\customer_manager_simulator.deps.json
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Requests Simulator\customer_manager_simulator\customer_manager_simulator\bin\Debug\net8.0\customer_manager_simulator.runtimeconfig.json
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Requests Simulator\customer_manager_simulator\customer_manager_simulator\bin\Debug\net8.0\customer_manager_simulator.dll
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Requests Simulator\customer_manager_simulator\customer_manager_simulator\bin\Debug\net8.0\customer_manager_simulator.pdb
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Requests Simulator\customer_manager_simulator\customer_manager_simulator\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Requests Simulator\customer_manager_simulator\customer_manager_simulator\obj\Debug\net8.0\customer_manager_simulator.csproj.AssemblyReference.cache
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Requests Simulator\customer_manager_simulator\customer_manager_simulator\obj\Debug\net8.0\customer_manager_simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Requests Simulator\customer_manager_simulator\customer_manager_simulator\obj\Debug\net8.0\customer_manager_simulator.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Requests Simulator\customer_manager_simulator\customer_manager_simulator\obj\Debug\net8.0\customer_manager_simulator.AssemblyInfo.cs
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Requests Simulator\customer_manager_simulator\customer_manager_simulator\obj\Debug\net8.0\customer_manager_simulator.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Requests Simulator\customer_manager_simulator\customer_manager_simulator\obj\Debug\net8.0\customer.AFE40DEB.Up2Date
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Requests Simulator\customer_manager_simulator\customer_manager_simulator\obj\Debug\net8.0\customer_manager_simulator.dll
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Requests Simulator\customer_manager_simulator\customer_manager_simulator\obj\Debug\net8.0\refint\customer_manager_simulator.dll
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Requests Simulator\customer_manager_simulator\customer_manager_simulator\obj\Debug\net8.0\customer_manager_simulator.pdb
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Requests Simulator\customer_manager_simulator\customer_manager_simulator\obj\Debug\net8.0\customer_manager_simulator.genruntimeconfig.cache
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Requests Simulator\customer_manager_simulator\customer_manager_simulator\obj\Debug\net8.0\ref\customer_manager_simulator.dll

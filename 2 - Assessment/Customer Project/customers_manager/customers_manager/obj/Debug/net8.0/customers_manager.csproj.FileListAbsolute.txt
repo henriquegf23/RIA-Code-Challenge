@@ -1,0 +1,146 @@
+C:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\customers_manager\customers_manager\customers_manager\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\customers_manager\customers_manager\customers_manager\bin\Debug\net8.0\appsettings.json
+C:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\customers_manager\customers_manager\customers_manager\bin\Debug\net8.0\customers_manager.staticwebassets.endpoints.json
+C:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\customers_manager\customers_manager\customers_manager\bin\Debug\net8.0\customers_manager.exe
+C:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\customers_manager\customers_manager\customers_manager\bin\Debug\net8.0\customers_manager.deps.json
+C:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\customers_manager\customers_manager\customers_manager\bin\Debug\net8.0\customers_manager.runtimeconfig.json
+C:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\customers_manager\customers_manager\customers_manager\bin\Debug\net8.0\customers_manager.dll
+C:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\customers_manager\customers_manager\customers_manager\bin\Debug\net8.0\customers_manager.pdb
+C:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\customers_manager\customers_manager\customers_manager\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\customers_manager\customers_manager\customers_manager\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\customers_manager\customers_manager\customers_manager\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\customers_manager\customers_manager\customers_manager\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\customers_manager\customers_manager\customers_manager\obj\Debug\net8.0\customers_manager.csproj.AssemblyReference.cache
+C:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\customers_manager\customers_manager\customers_manager\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\customers_manager\customers_manager\customers_manager\obj\Debug\net8.0\customers_manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\customers_manager\customers_manager\customers_manager\obj\Debug\net8.0\customers_manager.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\customers_manager\customers_manager\customers_manager\obj\Debug\net8.0\customers_manager.AssemblyInfo.cs
+C:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\customers_manager\customers_manager\customers_manager\obj\Debug\net8.0\customers_manager.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\customers_manager\customers_manager\customers_manager\obj\Debug\net8.0\customers_manager.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\customers_manager\customers_manager\customers_manager\obj\Debug\net8.0\customers_manager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\customers_manager\customers_manager\customers_manager\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\customers_manager\customers_manager\customers_manager\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\customers_manager\customers_manager\customers_manager\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\customers_manager\customers_manager\customers_manager\obj\Debug\net8.0\scopedcss\bundle\customers_manager.styles.css
+C:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\customers_manager\customers_manager\customers_manager\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\customers_manager\customers_manager\customers_manager\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\customers_manager\customers_manager\customers_manager\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\customers_manager\customers_manager\customers_manager\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\customers_manager\customers_manager\customers_manager\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\customers_manager\customers_manager\customers_manager\obj\Debug\net8.0\customer.F3E89271.Up2Date
+C:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\customers_manager\customers_manager\customers_manager\obj\Debug\net8.0\customers_manager.dll
+C:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\customers_manager\customers_manager\customers_manager\obj\Debug\net8.0\refint\customers_manager.dll
+C:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\customers_manager\customers_manager\customers_manager\obj\Debug\net8.0\customers_manager.pdb
+C:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\customers_manager\customers_manager\customers_manager\obj\Debug\net8.0\customers_manager.genruntimeconfig.cache
+C:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\customers_manager\customers_manager\customers_manager\obj\Debug\net8.0\ref\customers_manager.dll
+C:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\customers_manager\customers_manager\customers_manager\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\customers_manager\customers_manager\customers_manager\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\customers_manager\customers_manager\customers_manager\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\customers_manager\customers_manager\customers_manager\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\customers_manager\customers_manager\customers_manager\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\customers_manager\customers_manager\customers_manager\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\customers_manager\customers_manager\customers_manager\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\customers_manager\customers_manager\customers_manager\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\customers_manager\customers_manager\customers_manager\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\customers_manager\customers_manager\customers_manager\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\customers_manager\customers_manager\customers_manager\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\customers_manager\customers_manager\customers_manager\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\T-Gamer\OneDrive\Documentos\Ria Code Challenge\customers_manager\customers_manager\customers_manager\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customers_manager\customers_manager\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customers_manager\customers_manager\bin\Debug\net8.0\appsettings.json
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customers_manager\customers_manager\bin\Debug\net8.0\customers_manager.staticwebassets.endpoints.json
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customers_manager\customers_manager\bin\Debug\net8.0\customers_manager.exe
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customers_manager\customers_manager\bin\Debug\net8.0\customers_manager.deps.json
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customers_manager\customers_manager\bin\Debug\net8.0\customers_manager.runtimeconfig.json
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customers_manager\customers_manager\bin\Debug\net8.0\customers_manager.dll
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customers_manager\customers_manager\bin\Debug\net8.0\customers_manager.pdb
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customers_manager\customers_manager\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customers_manager\customers_manager\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customers_manager\customers_manager\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customers_manager\customers_manager\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customers_manager\customers_manager\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customers_manager\customers_manager\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customers_manager\customers_manager\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customers_manager\customers_manager\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customers_manager\customers_manager\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customers_manager\customers_manager\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customers_manager\customers_manager\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customers_manager\customers_manager\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customers_manager\customers_manager\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customers_manager\customers_manager\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customers_manager\customers_manager\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customers_manager\customers_manager\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customers_manager\customers_manager\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customers_manager\customers_manager\obj\Debug\net8.0\customers_manager.csproj.AssemblyReference.cache
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customers_manager\customers_manager\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customers_manager\customers_manager\obj\Debug\net8.0\customers_manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customers_manager\customers_manager\obj\Debug\net8.0\customers_manager.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customers_manager\customers_manager\obj\Debug\net8.0\customers_manager.AssemblyInfo.cs
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customers_manager\customers_manager\obj\Debug\net8.0\customers_manager.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customers_manager\customers_manager\obj\Debug\net8.0\customers_manager.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customers_manager\customers_manager\obj\Debug\net8.0\customers_manager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customers_manager\customers_manager\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customers_manager\customers_manager\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customers_manager\customers_manager\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customers_manager\customers_manager\obj\Debug\net8.0\scopedcss\bundle\customers_manager.styles.css
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customers_manager\customers_manager\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customers_manager\customers_manager\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customers_manager\customers_manager\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customers_manager\customers_manager\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customers_manager\customers_manager\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customers_manager\customers_manager\obj\Debug\net8.0\customer.F3E89271.Up2Date
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customers_manager\customers_manager\obj\Debug\net8.0\customers_manager.dll
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customers_manager\customers_manager\obj\Debug\net8.0\refint\customers_manager.dll
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customers_manager\customers_manager\obj\Debug\net8.0\customers_manager.pdb
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customers_manager\customers_manager\obj\Debug\net8.0\customers_manager.genruntimeconfig.cache
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customers_manager\customers_manager\obj\Debug\net8.0\ref\customers_manager.dll
+C:\Users\T-Gamer\OneDrive\Documentos\RiaCodeChallenge\customers_manager\customers_manager\customers_manager\bin\Debug\net8.0\App_Data\data_store.json
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Customer Project\customers_manager\customers_manager\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Customer Project\customers_manager\customers_manager\bin\Debug\net8.0\appsettings.json
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Customer Project\customers_manager\customers_manager\bin\Debug\net8.0\customers_manager.staticwebassets.endpoints.json
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Customer Project\customers_manager\customers_manager\bin\Debug\net8.0\App_Data\data_store.json
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Customer Project\customers_manager\customers_manager\bin\Debug\net8.0\customers_manager.exe
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Customer Project\customers_manager\customers_manager\bin\Debug\net8.0\customers_manager.deps.json
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Customer Project\customers_manager\customers_manager\bin\Debug\net8.0\customers_manager.runtimeconfig.json
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Customer Project\customers_manager\customers_manager\bin\Debug\net8.0\customers_manager.dll
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Customer Project\customers_manager\customers_manager\bin\Debug\net8.0\customers_manager.pdb
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Customer Project\customers_manager\customers_manager\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Customer Project\customers_manager\customers_manager\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Customer Project\customers_manager\customers_manager\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Customer Project\customers_manager\customers_manager\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Customer Project\customers_manager\customers_manager\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Customer Project\customers_manager\customers_manager\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Customer Project\customers_manager\customers_manager\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Customer Project\customers_manager\customers_manager\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Customer Project\customers_manager\customers_manager\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Customer Project\customers_manager\customers_manager\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Customer Project\customers_manager\customers_manager\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Customer Project\customers_manager\customers_manager\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Customer Project\customers_manager\customers_manager\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Customer Project\customers_manager\customers_manager\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Customer Project\customers_manager\customers_manager\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Customer Project\customers_manager\customers_manager\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Customer Project\customers_manager\customers_manager\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Customer Project\customers_manager\customers_manager\obj\Debug\net8.0\customers_manager.csproj.AssemblyReference.cache
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Customer Project\customers_manager\customers_manager\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Customer Project\customers_manager\customers_manager\obj\Debug\net8.0\customers_manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Customer Project\customers_manager\customers_manager\obj\Debug\net8.0\customers_manager.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Customer Project\customers_manager\customers_manager\obj\Debug\net8.0\customers_manager.AssemblyInfo.cs
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Customer Project\customers_manager\customers_manager\obj\Debug\net8.0\customers_manager.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Customer Project\customers_manager\customers_manager\obj\Debug\net8.0\customers_manager.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Customer Project\customers_manager\customers_manager\obj\Debug\net8.0\customers_manager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Customer Project\customers_manager\customers_manager\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Customer Project\customers_manager\customers_manager\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Customer Project\customers_manager\customers_manager\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Customer Project\customers_manager\customers_manager\obj\Debug\net8.0\scopedcss\bundle\customers_manager.styles.css
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Customer Project\customers_manager\customers_manager\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Customer Project\customers_manager\customers_manager\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Customer Project\customers_manager\customers_manager\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Customer Project\customers_manager\customers_manager\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Customer Project\customers_manager\customers_manager\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Customer Project\customers_manager\customers_manager\obj\Debug\net8.0\customer.F3E89271.Up2Date
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Customer Project\customers_manager\customers_manager\obj\Debug\net8.0\customers_manager.dll
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Customer Project\customers_manager\customers_manager\obj\Debug\net8.0\refint\customers_manager.dll
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Customer Project\customers_manager\customers_manager\obj\Debug\net8.0\customers_manager.pdb
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Customer Project\customers_manager\customers_manager\obj\Debug\net8.0\customers_manager.genruntimeconfig.cache
+C:\Users\T-Gamer\OneDrive\Documentos\GitHub\RIA-Code-Challenge\2 - Assessment\Customer Project\customers_manager\customers_manager\obj\Debug\net8.0\ref\customers_manager.dll
